@@ -1,4 +1,4 @@
-#Object Orient Progmming studies
+# Object Orient Progmming studies
 
 ## In this repo, I am studying the 4 pilars of OOP.
 
